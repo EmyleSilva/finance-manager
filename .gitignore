@@ -1,0 +1,15 @@
+# Arquivos gerados pelo Code::Blocks
+*.layout
+*.depend
+
+# Pastas bin e obj
+bin/
+obj/
+
+# Arquivos de configuração do Code::Blocks
+*.depend
+*.layout
+
+# Arquivos gerais
+*.txt
+*.bin
